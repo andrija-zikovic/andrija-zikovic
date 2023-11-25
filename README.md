@@ -3,7 +3,9 @@
 - ### [Mesnica](https://github.com/andrija-zikovic/Mesnica)
     - [Web](https://mesnica02.oa.r.appspot.com/)
     - [GitHub](https://github.com/andrija-zikovic/Mesnica)
-      
+
+## O meni
+
 Krajem 2022. doživio sam ozljedu(pad sa visine) na poslu koja mi je dala priliku 
 i vrijeme da se počnem baviti programiranjem.
 
@@ -32,9 +34,9 @@ i usporava moji napredak.
 Stopirao sam učenje Reacta i posvetit sam se :
 
 - **[HTML-u](https://www.youtube.com/watch?v=mJgBOIoGihA)**  
- - [HTML-tut Repo](https://github.com/andrija-zikovic/html-tut)
+    - [HTML-tut Repo](https://github.com/andrija-zikovic/html-tut)
 - **[CSS-u](https://www.youtube.com/watch?v=n4R2E7O-Ngo)**
- - [CSS-tut Repo](https://github.com/andrija-zikovic/css-tut)
+    - [CSS-tut Repo](https://github.com/andrija-zikovic/css-tut)
    
 U HTML-u sam se morao bolje upoznati s elementima i atributima koje želim koristit i koji su mi potrebni. 
 A u CSS-u trebao sam naučiti kako kristit flex, grid i ostale stilove kako bi mogao postaviti i urediti elemente onako kako želim.
