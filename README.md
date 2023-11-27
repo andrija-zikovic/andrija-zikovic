@@ -1,12 +1,14 @@
-## Moji projkti
+## Moji projekti
 
 - ### [Mesnica](https://github.com/andrija-zikovic/Mesnica)
     - [Web](https://mesnica02.oa.r.appspot.com/)
-    - [GitHub](https://github.com/andrija-zikovic/Mesnica)
+    - [GitHub Repo](https://github.com/andrija-zikovic/Mesnica)
+
+<img src="MesnicaPng.png" alt="Mesnica" width="auto" height="500">
 
 ## O meni
 
-Krajem 2022. doživio sam ozljedu(pad sa visine) na poslu koja mi je dala priliku 
+Krajem 2022. doživio sam ozljedu na poslu koja mi je dala priliku 
 i vrijeme da se počnem baviti programiranjem.
 
 Započeo sam sa **Pythonom** s nekoliko tuturiala, ali nisam shvaćao šta radim i to mi je smetalo.
@@ -33,9 +35,9 @@ i usporava moji napredak.
 
 Stopirao sam učenje Reacta i posvetit sam se :
 
-- **[HTML-u](https://www.youtube.com/watch?v=mJgBOIoGihA)**  
+- **[HTML-u tuturial](https://www.youtube.com/watch?v=mJgBOIoGihA)**  
     - [HTML-tut Repo](https://github.com/andrija-zikovic/html-tut)
-- **[CSS-u](https://www.youtube.com/watch?v=n4R2E7O-Ngo)**
+- **[CSS-u tuturial](https://www.youtube.com/watch?v=n4R2E7O-Ngo)**
     - [CSS-tut Repo](https://github.com/andrija-zikovic/css-tut)
    
 U HTML-u sam se morao bolje upoznati s elementima i atributima koje želim koristit i koji su mi potrebni. 
@@ -63,18 +65,18 @@ web trgovine.
   - [Node.js-tut Repo](https://github.com/andrija-zikovic/node.js--tut)
 
 Kroz tuturial i samostalnu izradu svog server naučio sam koristiti sljedeće biblioteke:
+
 - **[express.js](https://expressjs.com/)**
 - **[cors](https://www.npmjs.com/package/cors)**
-- **cookie-parser**
-- **MongoDb**
-- **mongoose**
-- **nodemailer**
-- **bcrypt**
-- **jsonwebtoken**
-- **qrcode**
-- **date-fns**
-- **@google-cloud/storage**
-- **multer**
-- **sharp**
-- **uuid**
-- **nodemon**
+- **[cookie-parser](https://www.npmjs.com/package/cookie-parser)**
+- **[mongoose](https://www.npmjs.com/package/mongoose)**
+- **[nodemailer](https://www.npmjs.com/package/nodemailer)**
+- **[bcrypt](https://www.npmjs.com/package/bcrypt)**
+- **[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
+- **[qrcode](https://www.npmjs.com/package/qrcode)**
+- **[date-fns](https://www.npmjs.com/package/date-fns)**
+- **[@google-cloud/storage](https://www.npmjs.com/package/@google-cloud/storage)**
+- **[multer](https://www.npmjs.com/package/multer)**
+- **[sharp](https://www.npmjs.com/package/sharp)**
+- **[uuid](https://www.npmjs.com/package/uuid)**
+- **[nodemon](https://www.npmjs.com/package/nodemon)**
