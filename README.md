@@ -1,70 +1,56 @@
-## Moji projekti
+## My Projects
 
-- ### [Mesnica](https://github.com/andrija-zikovic/Mesnica)
+- ### [Bucher shop](https://github.com/andrija-zikovic/Mesnica)
     - [Web](https://mesnica02.oa.r.appspot.com/)
     - [GitHub Repo](https://github.com/andrija-zikovic/Mesnica)
 
 <img src="MesnicaPng.png" alt="Mesnica" width="auto" height="500">
 
-## O meni
+## About Me
 
-Krajem 2022. doživio sam ozljedu na poslu koja mi je dala priliku 
-i vrijeme da se počnem baviti programiranjem.
+At the end of 2022, I experienced an injury at work that gave me the opportunity and time to start programming.
 
-Započeo sam sa **Pythonom** s nekoliko tuturiala, ali nisam shvaćao šta radim i to mi je smetalo.
-Nisam htio tipkati u prazno bez da razumijem šta se dešava ispod tih sintaksi koje pišem.
+I started with **Python** and a few tutorials, but I didn't understand what I was doing and it bothered me. I didn't want to type blindly without understanding what was happening beneath those syntaxes I was writing.
 
-Potražio sam najbolji content na webu s kojim mogu naučiti dubinu programiranja i 
-otkrio sam vrlo poznati **[Harvardomv CS50](https://cs50.harvard.edu/x/2023/)**, za mene tad velika nepoznanica.
+I searched for the best content on the web to learn the depth of programming and discovered the well-known **[Harvard's CS50](https://cs50.harvard.edu/x/2023/)**, which was a big unknown for me at the time.
 
-Odmah mi se svidio jer je to najbliže fakultetskom predavanju od svih tuturial na koje sam naišao.
+I immediately liked it because it was the closest thing to a college lecture out of all the tutorials I came across.
 
-CS50 mi je pomogao da razumijem dubinu programiranja. Sad shvačam ulogu kompajlera, razumijem kako strojni jezik funkcionira,
-te kako se zaista informacije prenose preko jedinica i nula. Upoznao me sa **SQL** bazom podataka i raznim metodama pretraživanja 
-podataka(Bubble sort, Merge sort..).
+CS50 helped me understand the depth of programming. Now I understand the role of compilers, how machine language works, and how information is truly transmitted through ones and zeros. It introduced me to **SQL** databases and various data retrieval methods (Bubble sort, Merge sort, etc.).
 
-Nakon CS50 sam se bacion na izradu prve web stranica s pythonom, flaskom i jinjom, tad sam se prvi put upoznao sa JavaScriptom 
-koji sam koristio u html skriptama.
+After CS50, I started building my first websites with Python, Flask, and Jinja, which was when I first encountered JavaScript that I used in HTML scripts.
 
-Nakon šta sam napravio sve šta sam htio s tom prvom web stranicom, osječao sam se nekako ograničeno u flasku. 
+After completing everything I wanted to do with that first website, I felt somewhat limited in Flask.
 
-Mislio sam da je problem u frameworku, i odlučio sam naučiti **React** jer je on jedan od poznatijih.
+I thought the problem was with the framework, so I decided to learn **React** because it is one of the more popular ones.
 
-Kroz **[React tuturial od Dave Graya](https://www.youtube.com/watch?v=RVFAyFWO4go)** na Youtubeu počeo sam shvačati kolike mi probleme nerazumijevanj CSS-s i HTML-a zadaje probleme
-i usporava moji napredak. 
+Through **[Dave Gray's React tutorial](https://www.youtube.com/watch?v=RVFAyFWO4go)** on YouTube, I began to understand the extent to which CSS and HTML were causing me problems and slowing down my progress.
 
-Stopirao sam učenje Reacta i posvetit sam se :
+I paused learning React and focused on:
 
-- **[HTML-u tuturial](https://www.youtube.com/watch?v=mJgBOIoGihA)**  
-    - [HTML-tut Repo](https://github.com/andrija-zikovic/html-tut)
-- **[CSS-u tuturial](https://www.youtube.com/watch?v=n4R2E7O-Ngo)**
-    - [CSS-tut Repo](https://github.com/andrija-zikovic/css-tut)
-   
-U HTML-u sam se morao bolje upoznati s elementima i atributima koje želim koristit i koji su mi potrebni. 
-A u CSS-u trebao sam naučiti kako kristit flex, grid i ostale stilove kako bi mogao postaviti i urediti elemente onako kako želim.
+- **[HTML tutorial](https://www.youtube.com/watch?v=mJgBOIoGihA)**
+        - [HTML-tut Repo](https://github.com/andrija-zikovic/html-tut)
+- **[CSS tutorial](https://www.youtube.com/watch?v=n4R2E7O-Ngo)**
+        - [CSS-tut Repo](https://github.com/andrija-zikovic/css-tut)
 
-Nakon toga sam se spreman vratio na učenje Reacta. 
+In HTML, I had to familiarize myself better with the elements and attributes I wanted to use and needed. And in CSS, I needed to learn how to use flex, grid, and other styles to be able to position and style elements the way I wanted.
 
-Kroz tuturial naučio sam kako se israđuju komponente, kako se koriste hooks useState, useEffect, kako se šalju svojstva(prop) kroz komponente, što je to prop driling i zašto nije dobro, useContext, useRef.
+After that, I was ready to return to learning React.
 
-Stvarno mi se svidio React, osječao sam se kao da je sve moguće. Uvijek je sve bilo moguće, samo sam tek tad to shvatio.
-Fascinantno je kako s tim malim uređajem s tipkovnicom u svom krili imaš neograničene mogućnosti. 
-Kad gradiš kuću, moraš ići na stotine lokacije, kako bi rješavao probleme koji su vezani za tu kuću.
-A u digitalnom svijet sve probleme riješavaš s jednog mjesta. Prelijepo.
+Through the tutorial, I learned how to create components, how to use hooks like useState and useEffect, how to pass props through components, what prop drilling is and why it's not good, useContext, and useRef.
 
-Dok sam radio na ovoj web trgovini, došao sam do problema gdje sam morao nači rješenje za manipulaciju proizvodima.
-Kako će vlasnik web trgovine izrađivati, mjenjati i uređivati proizvode. 
+I really liked React, I felt like anything was possible. Everything was always possible, I just realized it then. It's fascinating how with that small device with a keyboard in your lap, you have unlimited possibilities. When you build a house, you have to go to hundreds of locations to solve problems related to that house. But in the digital world, you solve all problems from one place. Beautiful.
 
-Logično rješenje je bilo nekakva baza podataka, ali nisam htio manipulirati bazom podataka s frontenda, pa je jedino 
-rješenje bilo pozabaviti se s nekakvim backendom. Potražio sam koji je dobar javascript backend framework koji se koristi uz React.
+While working on this web store, I encountered a problem where I had to find a solution for manipulating products. How the store owner would create, modify, and edit products.
 
-Tad sam se upoznao s **Node.js**-om. Odlučio sam se opet kroz tuturila naučiti osnove Node.js-a kako bi mogao zadovoljiti potrebe
-web trgovine. 
+The logical solution was some kind of database, but I didn't want to manipulate the database from the frontend, so the only solution was to delve into some backend development. I searched for a good JavaScript backend framework that is used with React.
+
+That's when I got to know **Node.js**. I decided to learn the basics of Node.js again through tutorials so that I could meet the needs of the web store.
 
 - **[Node.js](https://www.youtube.com/watch?v=f2EqECiTBL8)**
-  - [Node.js-tut Repo](https://github.com/andrija-zikovic/node.js--tut)
+    - [Node.js-tut Repo](https://github.com/andrija-zikovic/node.js--tut)
 
-Kroz tuturial i samostalnu izradu svog server naučio sam koristiti sljedeće biblioteke:
+Through the tutorial and building my own server, I learned to use the following libraries:
 
 - **[express.js](https://expressjs.com/)**
 - **[cors](https://www.npmjs.com/package/cors)**
