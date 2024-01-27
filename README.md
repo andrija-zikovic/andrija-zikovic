@@ -4,9 +4,9 @@
     - [Web](https://mesnica02.oa.r.appspot.com/)
     - [GitHub Repo](https://github.com/andrija-zikovic/Mesnica)
 
-<img src="laptop_view.png" alt="laptop" width="auto" height="350">
-<img src="tablet__view.png" alt="laptop" width="auto" height="350">
-<img src="phone_view.png" alt="laptop" width="auto" height="350">
+<img src="laptop_view.png" alt="laptop" width="auto" height="200">
+<img src="tablet__view.png" alt="laptop" width="auto" height="200">
+<img src="phone_view.png" alt="laptop" width="auto" height="200">
 
 ## About Me
 
