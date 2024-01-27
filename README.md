@@ -4,8 +4,11 @@
     - [Web](https://mesnica02.oa.r.appspot.com/)
     - [GitHub Repo](https://github.com/andrija-zikovic/Mesnica)
 
-![Laptop](laptop_view.png) ![Tablet](tablet__view.png) ![Phone](phone_view.png)
-
+<p align="centar">
+<img src="laptop_view.png" alt="laptop" width="auto" height="200">
+<img src="tablet__view.png" alt="laptop" width="auto" height="200">
+<img src="phone_view.png" alt="laptop" width="auto" height="200">
+</p>
 ## About Me
 
 At the end of 2022, I experienced an injury at work that gave me the opportunity and time to start programming.
