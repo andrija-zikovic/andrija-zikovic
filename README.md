@@ -5,9 +5,9 @@
     - [GitHub Repo](https://github.com/andrija-zikovic/Mesnica)
 
 <p align="centar">
-<img src="laptop_view.png" alt="laptop" width="auto" height="200">
-<img src="tablet__view.png" alt="laptop" width="auto" height="200">
-<img src="phone_view.png" alt="laptop" width="auto" height="200">
+<img src="laptop_view.png" alt="laptop" width="auto" height="300">
+<img src="tablet__view.png" alt="laptop" width="auto" height="300">
+<img src="phone_view.png" alt="laptop" width="auto" height="300">
 </p>
 ## About Me
 
