@@ -1,7 +1,8 @@
 ## My Projects
 
 - ### [Bucher shop](https://github.com/andrija-zikovic/Mesnica)
-    - [Web](https://mesnica02.oa.r.appspot.com/)
+    - [Web Client](https://mesnica02.oa.r.appspot.com/)
+    - [Web Admin](https://mesnica02.oa.r.appspot.com/admin)
     - [GitHub Repo](https://github.com/andrija-zikovic/Mesnica)
 
 <p align="centar">
@@ -9,6 +10,7 @@
 <img src="tablet__view.png" alt="laptop" width="auto" height="300">
 <img src="phone_view.png" alt="laptop" width="auto" height="300">
 </p>
+
 ## About Me
 
 At the end of 2022, I experienced an injury at work that gave me the opportunity and time to start programming.
