@@ -1,15 +1,38 @@
 ## My Projects
 
 - ### [Bucher shop](https://github.com/andrija-zikovic/Mesnica)
-    - [Web Client](https://mesnica02.oa.r.appspot.com/)
-    - [Web Admin](https://mesnica02.oa.r.appspot.com/admin)
-    - [GitHub Repo](https://github.com/andrija-zikovic/Mesnica)
+  - [Web Client](https://mesnica02.oa.r.appspot.com/)
+  - [Web Admin](https://mesnica02.oa.r.appspot.com/admin)
+  - [GitHub Repo](https://github.com/andrija-zikovic/Mesnica)
 
 <p align="centar">
 <img src="laptop_view.png" alt="laptop" width="auto" height="300">
 <img src="tablet__view.png" alt="laptop" width="auto" height="300">
 <img src="phone_view.png" alt="laptop" width="auto" height="300">
 </p>
+
+- ## Things I Learned Building This Site
+  - React basics
+  - useState
+  - useEffect
+  - useContext
+  - useRef
+  - react-router-dom
+  - chart.js
+  - express.js
+  - cors
+  - cookie-parser
+  - mongoose
+  - nodemailer
+  - bcrypt
+  - jsonwebtoken
+  - qrcode
+  - date-fns
+  - @google-cloud/storage-cloud/storage
+  - multer
+  - sharp
+  - uuid
+  - nodemon
 
 ## About Me
 
@@ -33,10 +56,8 @@ Through **[Dave Gray's React tutorial](https://www.youtube.com/watch?v=RVFAyFWO4
 
 I paused learning React and focused on:
 
-- **[HTML tutorial](https://www.youtube.com/watch?v=mJgBOIoGihA)**
-        - [HTML-tut Repo](https://github.com/andrija-zikovic/html-tut)
-- **[CSS tutorial](https://www.youtube.com/watch?v=n4R2E7O-Ngo)**
-        - [CSS-tut Repo](https://github.com/andrija-zikovic/css-tut)
+- **[HTML tutorial](https://www.youtube.com/watch?v=mJgBOIoGihA)** - [HTML-tut Repo](https://github.com/andrija-zikovic/html-tut)
+- **[CSS tutorial](https://www.youtube.com/watch?v=n4R2E7O-Ngo)** - [CSS-tut Repo](https://github.com/andrija-zikovic/css-tut)
 
 In HTML, I had to familiarize myself better with the elements and attributes I wanted to use and needed. And in CSS, I needed to learn how to use flex, grid, and other styles to be able to position and style elements the way I wanted.
 
@@ -53,21 +74,6 @@ The logical solution was some kind of database, but I didn't want to manipulate 
 That's when I got to know **Node.js**. I decided to learn the basics of Node.js again through tutorials so that I could meet the needs of the web store.
 
 - **[Node.js](https://www.youtube.com/watch?v=f2EqECiTBL8)**
-    - [Node.js-tut Repo](https://github.com/andrija-zikovic/node.js--tut)
+  - [Node.js-tut Repo](https://github.com/andrija-zikovic/node.js--tut)
 
-Through the tutorial and building my own server, I learned to use the following libraries:
-
-- **[express.js](https://expressjs.com/)**
-- **[cors](https://www.npmjs.com/package/cors)**
-- **[cookie-parser](https://www.npmjs.com/package/cookie-parser)**
-- **[mongoose](https://www.npmjs.com/package/mongoose)**
-- **[nodemailer](https://www.npmjs.com/package/nodemailer)**
-- **[bcrypt](https://www.npmjs.com/package/bcrypt)**
-- **[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
-- **[qrcode](https://www.npmjs.com/package/qrcode)**
-- **[date-fns](https://www.npmjs.com/package/date-fns)**
-- **[@google-cloud/storage](https://www.npmjs.com/package/@google-cloud/storage)**
-- **[multer](https://www.npmjs.com/package/multer)**
-- **[sharp](https://www.npmjs.com/package/sharp)**
-- **[uuid](https://www.npmjs.com/package/uuid)**
-- **[nodemon](https://www.npmjs.com/package/nodemon)**
+Next thing for me is to learn making tests for my components, and start with TypeScript, Tailwind, and some UI libraries for React.
